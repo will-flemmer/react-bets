@@ -1,0 +1,9 @@
+schema {
+  query: RootQuery
+}
+
+""""""
+type RootQuery {
+  """"""
+  hello: String
+}
